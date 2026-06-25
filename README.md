@@ -54,3 +54,6 @@ Overall, this project successfully fulfills its objective of delivering real-tim
 3. Replace the API key with your own OpenWeatherMap API key if required.
 4. Open `index.html` using Live Server or any web browser.
 5. Enter a city name and click the Search button to view the weather information.
+
+<img width="1918" height="972" alt="Image" src="https://github.com/user-attachments/assets/7df803f2-fe60-4564-8286-e581d8347b44" />
+
